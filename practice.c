@@ -1,6 +1,7 @@
 #include <stdio.h>
 /* Variables must be declared at the top of a block if you are compiling using C89
-C89 doesn't allow C++ style comments "//" only "/ *  * /"  
+C89 doesn't allow C++ style comments "//" only "/ *  * /"
+variables and their type must be declared before use for example: int i;  or double x;
 print practice. printf() has many format specifiers. */
 
 int main(void){
