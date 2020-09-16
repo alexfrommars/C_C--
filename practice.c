@@ -1,5 +1,7 @@
 #include <stdio.h>
-/* print practice. printf() has many format specifiers. */
+/* Variables must be declared at the top of a block if you are compiling using C89
+C89 doesn't allow C++ style comments "//" only "/ *  * /"  
+print practice. printf() has many format specifiers. */
 
 int main(void){
     int i;
